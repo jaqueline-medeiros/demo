@@ -1,3 +1,4 @@
 # Demo
 
-- Learning how to use GitHub
+- Learning how to use GitHu
+- I know how to push modifications to GitHub
